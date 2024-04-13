@@ -1,3 +1,7 @@
 # Bank-Management System
-## Frontend using ### HTML, CSS
-## Bckend using ### Flask
+-------------------
+## Frontend using 
+### HTML, CSS
+-------------------
+## Bckend using
+### Flask
