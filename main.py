@@ -6,6 +6,7 @@ import math
 import random
 import smtplib
 
+
 app = Flask(__name__)
 
 app.secret_key ="fgokneigurefiuherfiuhegiuj446wrfoierhfi"
